@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Split_Portraits.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="splitsonic0000" x="0" y="0" width="768" height="768"/>
+	<SubTexture name="splitconfused0000" x="768" y="0" width="768" height="768"/>
+	<SubTexture name="splitexcited0000" x="1536" y="0" width="768" height="768"/>
+	<SubTexture name="splitidle0000" x="2304" y="0" width="768" height="768"/>
+	<SubTexture name="splitreally0000" x="3072" y="0" width="768" height="768"/>
+	<SubTexture name="splittired0000" x="0" y="768" width="768" height="768"/>
+</TextureAtlas>

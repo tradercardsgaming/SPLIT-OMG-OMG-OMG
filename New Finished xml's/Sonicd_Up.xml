@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sonicd up.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sonicd Up bg0000" x="0" y="0" width="2608" height="1440" frameX="0" frameY="-21" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0001" x="2608" y="0" width="2577" height="1431" frameX="-16" frameY="-26" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0002" x="5185" y="0" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0003" x="5185" y="0" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0004" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0005" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0006" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0007" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0008" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0009" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0010" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0011" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0012" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0013" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0014" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0015" x="2560" y="1440" width="2599" height="1483" frameX="-5" frameY="0" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0016" x="5159" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0017" x="0" y="2923" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0018" x="0" y="2923" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0019" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0020" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0021" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0022" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0023" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0024" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0025" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0026" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0027" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0028" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+	<SubTexture name="Sonicd Up bg0029" x="0" y="1440" width="2560" height="1400" frameX="-24" frameY="-41" frameWidth="2608" frameHeight="1483"/>
+</TextureAtlas>
